@@ -1,0 +1,4 @@
+west:
+  command: /home/vishnu/.local/bin/west build -b your_board zephyr/samples/basic/blinky
+  topdir: /home/vishnu/zephyrproject
+  version: 1.3.0
